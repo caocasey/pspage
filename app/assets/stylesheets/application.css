@@ -46,7 +46,7 @@ a.nav:link{
 	display:block;
 	width:120px;
 	font-weight:bold;
-	color:red;
+	color:#FA8258;
 	text-align:center;
 	padding:5px;
 	text-decoration:none;
@@ -54,7 +54,7 @@ a.nav:link{
 }
 
 a.nav:hover,a.nav:active{
-	background-color:#FE9A2E;
+	background-color:#F6CECE;
 }
 h1{
 	font-size:12;
