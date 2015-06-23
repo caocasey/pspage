@@ -1,7 +1,5 @@
 Pspage::Application.routes.draw do
-  get "welcome/French"
-  get "welcome/English"
-  get "welcome/Chinese"
+ 
   get "welcome/index"
   
   get "welcome/Education"
@@ -10,7 +8,8 @@ Pspage::Application.routes.draw do
   get "welcome/CV"
   get "welcome/Contact"
     
-
+  match '/contacts',     to: 'contacts#new',             via: 'get'
+  resources "contacts", only: [:new, :create]
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
