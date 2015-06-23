@@ -3,6 +3,13 @@ Pspage::Application.routes.draw do
   get "welcome/English"
   get "welcome/Chinese"
   get "welcome/index"
+  
+  get "welcome/Education"
+  get "welcome/Experience"
+  get "welcome/Projects"
+  get "welcome/CV"
+  get "welcome/Contact"
+    
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
