@@ -7,6 +7,7 @@ Pspage::Application.routes.draw do
   get "welcome/Projects"
   get "welcome/CV"
   get "welcome/Contact"
+  get "welcome/startup"
     
   match '/contacts',     to: 'contacts#new',             via: 'get'
   resources "contacts", only: [:new, :create]
