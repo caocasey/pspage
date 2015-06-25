@@ -153,7 +153,13 @@ a.nav:hover,a.nav:active{
 .te{
 	padding-top:220px;
 }
-
+.startup{
+	padding-top:220px;
+}
+footer{
+	text-align:center;
+	font-size:10px;
+}
 /*--//End--*/
 
 
