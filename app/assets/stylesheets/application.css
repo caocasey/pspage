@@ -43,10 +43,11 @@ h3 span{
 	list-style-type:none;
     width:800px;
     height:50px;	
-	float:right;
-	
+	float:right; 
+}
 
- 
+#ps{
+	text-align:center;
 }
 .name{
 	padding-top:30px;
