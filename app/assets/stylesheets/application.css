@@ -41,7 +41,7 @@ h3 span{
 }
 .navi{
 	list-style-type:none;
-    width:800px;
+    width:1000px;
     height:50px;	
 	float:right; 
 }
@@ -152,6 +152,9 @@ a.nav:hover,a.nav:active{
 	padding-top:220px;
 }
 .te{
+	padding-top:220px;
+}
+.video{
 	padding-top:220px;
 }
 .startup{

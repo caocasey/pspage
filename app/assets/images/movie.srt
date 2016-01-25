@@ -1,0 +1,140 @@
+1
+00:00:00,400 --> 00:00:02,498
+Hi, my name is Yingxi,
+
+2
+00:00:02,498 --> 00:00:07,497
+I studied in Beijing University of Technology as an undergraduatestudent in computer science.
+
+3
+00:00:07,957 --> 00:00:11,957
+During the time in Beijing, I got consecutive Learning MeritScholarships.
+
+4
+00:00:12,559 --> 00:00:16,559
+And be selected as an exchange student to study in ECE Paris.
+
+5
+00:00:16,895 --> 00:00:20,895
+During the time inParis, I did a lot of projects working with data,
+
+6
+00:00:21,204 --> 00:00:24,051
+For example our startup project in school.
+
+7
+00:00:24,051 --> 00:00:30,051
+The goal of this project is to allow clients shopping in market without needing the help ofassistant.
+
+8
+00:00:30,363 --> 00:00:36,080
+What he needs is just a smartphone application in order to scan product and payonline.
+
+9
+00:00:36,080 --> 00:00:42,080
+As for me I did the ruby on rails server for data management storage and exchange,
+
+10
+00:00:42,165 --> 00:00:46,165
+I found that working with data is very interesting and I would like to continue working on it.
+
+11
+00:00:47,395 --> 00:00:53,395
+What’s more, I also did two internships in France, one in UNESCO and the other in  PSA,
+
+12
+00:00:54,480 --> 00:01:00,480
+From these 2 internships, I got deeper understanding of how tocooperate with team members in the same project,
+
+13
+00:01:00,558 --> 00:01:03,725
+and I learnt many innovative ideas.
+
+14
+00:01:03,725 --> 00:01:09,725
+Finally, I got my master degree in this engineer school and acquired many practical skills.
+
+15
+00:01:10,406 --> 00:01:17,406
+I have been in New York in 2013 to visit my host family after finished my summer study in UCI.
+
+16
+00:01:17,917 --> 00:01:23,519
+I found that there are plenty of opportunities in New York since its location priorities.
+
+17
+00:01:23,519 --> 00:01:31,519
+My host sister live in Brooklyn, we first met each other in Beijing during high school timesince she came to study Chinese.
+
+18
+00:01:32,135 --> 00:01:38,697
+Nearly 10 years passed, she came to China to teach as avolunteer and I went to US to study,
+
+19
+00:01:38,697 --> 00:01:46,697
+If I could be selected to study in NYU then it’s really agood chance to visit them again and to better maintain this friendship.
+
+20
+00:01:47,801 --> 00:01:54,768
+After attained a master Degree, I would like to work in an international IT company,
+
+21
+00:01:54,768 --> 00:01:59,117
+which can provides me opportunity to use both my networking knowledge,
+
+22
+00:01:59,117 --> 00:02:01,536
+and communication skills.
+
+23
+00:02:01,536 --> 00:02:08,014
+I see myself developed my management skills during the training program offered byuniversity.
+
+24
+00:02:08,014 --> 00:02:11,686
+So after working for few years, accumulate experience,
+
+25
+00:02:11,686 --> 00:02:15,075
+my goal is to develop myself in leadership area,
+
+26
+00:02:15,075 --> 00:02:23,075
+which can help me better understand the architecture ofenterprise and the management principles.
+
+27
+00:02:23,560 --> 00:02:26,009
+Laying the foundation for my future career.
+
+28
+00:02:26,009 --> 00:02:29,290
+Finally, I would like to start my own business.
+
+29
+00:02:29,290 --> 00:02:32,290
+Since I have multiple international backgrounds,
+
+30
+00:02:33,040 --> 00:02:37,200
+I will make full use of the knowledge I learnt in different countries,
+
+31
+00:02:37,200 --> 00:02:40,801
+get ready to grow in frustration and learn from mistakes.
+
+32
+00:02:40,801 --> 00:02:44,801
+Developing myself, get myself stronger day by day,
+
+33
+00:02:45,291 --> 00:02:49,291
+and do my best to make my company as a fortune 500 in the last.
+
+34
+00:02:49,890 --> 00:02:53,890
+Thank you for watching, I do hope that I could be selected to NYU
+
+35
+00:02:54,642 --> 00:02:58,642
+Merci beaucoup(Thank you so much), Au-revoir(Bye) :)
+

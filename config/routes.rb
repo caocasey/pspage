@@ -8,6 +8,7 @@ Pspage::Application.routes.draw do
   get "welcome/CV"
   get "welcome/Contact"
   get "welcome/startup"
+  get "welcome/video"
 
     
   match '/contacts',     to: 'contacts#new',             via: 'get'
