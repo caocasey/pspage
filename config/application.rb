@@ -10,6 +10,11 @@ module Pspage
   class Application < Rails::Application
     config.assets.enabled = true
     config.assets.version = '1.0'
+
+    config.action_dispatch.default_headers = {
+    'X-Frame-Options' => 'ALLOWALL'
+    }
+
     # Settings in config/environments/* take precedence over those specified here.
     # Application configuration should go into files in config/initializers
     # -- all .rb files in that directory are automatically loaded.
